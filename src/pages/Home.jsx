@@ -20,7 +20,7 @@ function Home() {
         <Grid container spacing={3}>
         <Grid item xs={12}>
         <Typography gutterBottom variant="h5" component="h2">
-            Code-JS React Basic Template
+             Our Services
           </Typography>
         </Grid>
         <Grid item xs={3}>
@@ -28,8 +28,8 @@ function Home() {
             <Card
             image="/image1.jpg"
             title="Project-1"
-            topic="Project-1"
-            content="There is one limitation with the negative margin we use to implement the spacing between items"
+            topic="Service:1"
+            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             />
           </Paper>
         </Grid>
@@ -38,8 +38,8 @@ function Home() {
           <Card
             image="/image2.jpg"
             title="Project-2"
-            topic="Project-2"
-            content="There is one limitation with the negative margin we use to implement the spacing between items"
+            topic="Service:2"
+            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             />
           </Paper>
         </Grid>
@@ -48,8 +48,8 @@ function Home() {
           <Card
             image="/image3.jpg"
             title="Project-3"
-            topic="Project-3"
-            content="There is one limitation with the negative margin we use to implement the spacing between items"
+            topic="Service:3"
+            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             />
           </Paper>
         </Grid>
@@ -58,8 +58,8 @@ function Home() {
           <Card
             image="/image4.jpg"
             title="Project-4"
-            topic="Project-4"
-            content="There is one limitation with the negative margin we use to implement the spacing between items"
+            topic="Service:4"
+            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             />
           </Paper>
         </Grid>
