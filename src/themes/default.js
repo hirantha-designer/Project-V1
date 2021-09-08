@@ -36,7 +36,7 @@ const theme_default= createTheme({
       orangeBg: orange["A100"],
       darkbg: "#343536",
       whitebg: "#fff",
-      deepPurpleBg: deepPurple[700],
+      deepPurpleBg:"#010101",
       deepDarkBg:"#131314",
       footer:"#fefefe",
       thead:"rgb(196, 220, 252)",
